@@ -22,7 +22,8 @@ yarn dev
 
 Abra a URL http://localhost:5173 no seu navegador.
 
-Scripts
+## Scripts
+
 - `dev`: inicia a aplicação em modo de desenvolvimento;
 - `build`: cria a versão de produção;
 - `preview`: inicializa um servidor web estático local que serve os arquivos do diretório dist (é uma maneira fácil de verificar se a compilação de produção está funcionando corretamente);
